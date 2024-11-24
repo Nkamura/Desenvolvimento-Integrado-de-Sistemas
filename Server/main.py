@@ -26,3 +26,6 @@ def generate_random_id():
     return ''.join(random.choice('abcdefghijklmnopqrstuvwxyz1234567890') for i in range(12))
 
 print(generate_random_id())
+
+##_____________________________________________________
+
